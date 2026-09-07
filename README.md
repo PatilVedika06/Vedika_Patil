@@ -1,2 +1,3 @@
 # Vedika_Patil
-This is my first Repositary
+This is my first Git Repositary
+Author:Vedika Patil
